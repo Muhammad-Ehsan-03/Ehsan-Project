@@ -11,3 +11,9 @@
 body {
   margin: 50px;
 }
+.col-md-4 {
+  display: flex;
+}
+.btn {
+  margin-left: 20px;
+}
