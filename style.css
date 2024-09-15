@@ -11,3 +11,24 @@
 body {
   margin: 50px;
 }
+.common {
+  display: flex;
+  width: 400px;
+}
+.top {
+  margin-top: 40px;
+}
+label {
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.submit {
+  margin-left: 30px;
+}
+.button {
+  margin-left: 30px;
+}
+.button:hover {
+  background-color: slateblue;
+  color: black;
+}
